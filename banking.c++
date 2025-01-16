@@ -1,3 +1,13 @@
+/*Banking Management System
+
+A C++ application to manage customer accounts and perform essential banking operations.
+
+Features
+	•	Create, update, and delete customer accounts.
+	•	Deposit and withdraw funds.
+	•	Check account balance.
+	•	Store account data using file handling for persistent storage.*/
+
 #include <iostream>
 #include <vector>
 #include <fstream>
