@@ -1,3 +1,11 @@
+/*# Supermarket Billing System
+A C++ application to manage inventory and generate customer bills.
+
+## Features
+- Add items to the inventory.
+- Manage customer cart and calculate total bills.
+- Update inventory in real-time.*/
+
 #include <iostream>
 #include <fstream>
 using namespace std;
